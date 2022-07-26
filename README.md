@@ -1,12 +1,14 @@
 # AlarconDev
-## Ingeniero en Sistemas.
+## Ingeniero en Sistemas 
+Con más de 14 años de experiencia en el desarrollo de software a medida y productos de software.
 
 ### Arquitectura de software
 Desarrollando de software de Negocios y Empresarial.
 
-### Tecnologias
+#### Tecnologias
+
+- ASP.Net Core 6
+- Blazor
 - Xamarin
-- ASP.NET Core
-- NodeJs.
 - Sql Server
 - Sqlite
