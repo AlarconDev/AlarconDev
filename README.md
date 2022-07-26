@@ -6,9 +6,13 @@ Con más de 14 años de experiencia en el desarrollo de software a medida y prod
 Desarrollando de software de Negocios y Empresarial.
 
 #### Tecnologias
-
-- ASP.Net Core 6
-- Blazor
+- Net 3.1/5/6
+  - ASP.Net Core
+  - Blazor
+  - WinFroms
+    - WinUI
 - Xamarin
-- Sql Server
-- Sqlite
+  - Froms
+- SQL
+  - Sql Server
+  - Sqlite
