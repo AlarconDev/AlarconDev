@@ -1,9 +1,7 @@
-# AlarconDev
- programacion en ASP.NET Core 6, MAUI y BLAZOR. 
+# Ian Alarcon Zuñiga
 
-## Ian Alarcon Zuñiga
-Actualmente se desempeña como desarrollador de software, ayudando a los clientes a alcanzar sus objetivos con soluciones innovadoras. Ha trabajado en aplicaciones web y móviles para proyectos de todo el mundo, desde pequeños sitios web hasta sistemas de gestión de contenido complejos. También ha participado en iniciativas de código abierto, contribuyendo con soluciones a problemas comunes en la plataforma. 
+Es un programador altamente calificado con amplia experiencia en el desarrollo de aplicaciones web utilizando ASP.NET Core 6, MAUI y BLAZOR. Desde que comenzó su carrera, ha trabajado en una variedad de proyectos de software, siempre buscando nuevas formas de mejorar su enfoque y aumentar su conocimiento técnico.
 
-A lo largo de su carrera, Ian ha tenido la oportunidad de aprender y aplicar una variedad de tecnologías, desde HTML, CSS, JavaScript y frameworks como Blazor con lenguajes de programación C#. Ha trabajado con bases de datos MS-SQL y noSQL, como MongoDB y Firebase.
+Con una formación sólida en informática y una pasión por la programación, Ian ha demostrado ser un valioso miembro de cualquier equipo de desarrollo. Su dedicación al trabajo y su habilidad para resolver problemas complejos lo han llevado a ser altamente respetado en su campo. Además de sus habilidades técnicas, Ian también es conocido por su trabajo en equipo y su disposición para ayudar a sus compañeros de trabajo.
 
-Su objetivo es ayudar a los clientes a construir productos de calidad con un enfoque en la simplicidad y la escalabilidad.
+En su tiempo libre, Ian disfruta de aprender sobre nuevas tecnologías y está siempre dispuesto a aceptar nuevos desafíos. Su dedicación a la excelencia y su pasión por la programación lo han llevado a tener una carrera larga y exitosa en el mundo de la informática.
