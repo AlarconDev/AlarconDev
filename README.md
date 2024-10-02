@@ -7,4 +7,4 @@ Le gusta estar al día con las últimas tendencias y novedades del mundo de la p
 
 Ian Alarcon tiene una gran pasión por la programación y la considera una forma de expresar su creatividad y resolver desafíos. Su objetivo es seguir creciendo como profesional y contribuir al avance de la tecnología y la sociedad con su trabajo.
 
-Es un programador altamente calificado con amplia experiencia en el desarrollo de aplicaciones web utilizando ASP.NET Core 6, MAUI y BLAZOR.
+Es un programador altamente calificado con amplia experiencia en el desarrollo de aplicaciones web utilizando ASP.NET Core, MAUI y BLAZOR.
